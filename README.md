@@ -1,2 +1,10 @@
-# CRUD
-Um gerenciador de tarefas feito em Python, que permite adicionar, listar, atualizar e deletar tarefas de forma simples pelo terminal. 
+# Gerenciador de Tarefas 📝
+
+Um programa simples em Python para gerenciar tarefas diretamente pelo terminal.
+
+## 🚀 Funcionalidades
+- Adicionar uma nova tarefa
+- Listar todas as tarefas
+- Atualizar a descrição de uma tarefa existente
+- Deletar uma tarefa
+- Encerrar o programa
